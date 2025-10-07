@@ -94,10 +94,6 @@ cd frontend
 npm install
 npm run dev
 
-Step 4 – Access Application
-
-Visit: http://localhost:5173
-
  Deployment
 
 Frontend:  Netlify
